@@ -7,7 +7,6 @@
         <methods>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="homepageTitleTest"/>
           <include name="hyperlinkUrlTest"/>
         </methods>
       </class> <!-- TestClass.HomePageTest -->
