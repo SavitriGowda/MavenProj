@@ -121,7 +121,13 @@
 
 						</suiteXmlFiles>
 
-						
+						<systemPropertyVariables>
+
+							<browser>${browser}</browser>
+
+							<mobileOS>${mobileOS}</mobileOS>
+
+						</systemPropertyVariables>
 
 					</configuration>
 				</plugin>
