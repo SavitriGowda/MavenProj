@@ -111,29 +111,7 @@
 				<plugin>
 					<artifactId>maven-surefire-plugin</artifactId>
 					<version>3.2.3</version>
-					<configuration>
-
-<<<<<<< HEAD
-					<!--	<suiteXmlFiles>
-=======
-						<!--<suiteXmlFiles>
->>>>>>> 1bf5c1e0344a7bb50a603c8402d30c44f226d841
-
-							 <suiteXmlFile>${suite.name}</suiteXmlFile>
-
-							  <suiteXmlFile>testng.xml</suiteXmlFile> 
-
-						</suiteXmlFiles>
-
-						<systemPropertyVariables>
-
-							<browser>${browser}</browser>
-
-							<mobileOS>${mobileOS}</mobileOS>
-
-						</systemPropertyVariables>-->
-
-					</configuration>
+			
 				</plugin>
 				<plugin>
 					<artifactId>maven-jar-plugin</artifactId>
